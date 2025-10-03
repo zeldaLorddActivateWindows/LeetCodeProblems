@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\bin\Debug\net8.0\RegularExpressionMatching.exe
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\bin\Debug\net8.0\RegularExpressionMatching.deps.json
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\bin\Debug\net8.0\RegularExpressionMatching.runtimeconfig.json
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\bin\Debug\net8.0\RegularExpressionMatching.dll
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\bin\Debug\net8.0\RegularExpressionMatching.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\RegularExpressionMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\RegularExpressionMatching.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\RegularExpressionMatching.AssemblyInfo.cs
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\RegularExpressionMatching.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\RegularExpressionMatching.sourcelink.json
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\RegularExpressionMatching.dll
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\refint\RegularExpressionMatching.dll
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\RegularExpressionMatching.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\RegularExpressionMatching.genruntimeconfig.cache
+C:\Users\benja\Desktop\LeetCodeProblems\RegularExpressionMatching\obj\Debug\net8.0\ref\RegularExpressionMatching.dll

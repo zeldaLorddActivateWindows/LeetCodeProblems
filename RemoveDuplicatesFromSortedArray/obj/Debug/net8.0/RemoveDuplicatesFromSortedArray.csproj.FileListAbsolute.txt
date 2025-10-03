@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.exe
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.deps.json
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.runtimeconfig.json
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.dll
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\bin\Debug\net8.0\RemoveDuplicatesFromSortedArray.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.AssemblyInfo.cs
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.sourcelink.json
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.dll
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\refint\RemoveDuplicatesFromSortedArray.dll
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\RemoveDuplicatesFromSortedArray.genruntimeconfig.cache
+C:\Users\benja\Desktop\LeetCodeProblems\RemoveDuplicatesFromSortedArray\obj\Debug\net8.0\ref\RemoveDuplicatesFromSortedArray.dll

@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\MergeKSortedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\MergeKSortedLists.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\MergeKSortedLists.AssemblyInfo.cs
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\MergeKSortedLists.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\MergeKSortedLists.sourcelink.json
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\bin\Debug\net8.0\MergeKSortedLists.exe
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\bin\Debug\net8.0\MergeKSortedLists.deps.json
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\bin\Debug\net8.0\MergeKSortedLists.runtimeconfig.json
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\bin\Debug\net8.0\MergeKSortedLists.dll
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\bin\Debug\net8.0\MergeKSortedLists.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\MergeKSortedLists.dll
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\refint\MergeKSortedLists.dll
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\MergeKSortedLists.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\MergeKSortedLists.genruntimeconfig.cache
+C:\Users\benja\Desktop\LeetCodeProblems\MergeKSortedLists\obj\Debug\net8.0\ref\MergeKSortedLists.dll

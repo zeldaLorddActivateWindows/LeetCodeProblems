@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\bin\Debug\net8.0\WaterBottles.exe
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\bin\Debug\net8.0\WaterBottles.deps.json
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\bin\Debug\net8.0\WaterBottles.runtimeconfig.json
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\bin\Debug\net8.0\WaterBottles.dll
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\bin\Debug\net8.0\WaterBottles.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\WaterBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\WaterBottles.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\WaterBottles.AssemblyInfo.cs
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\WaterBottles.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\WaterBottles.sourcelink.json
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\WaterBottles.dll
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\refint\WaterBottles.dll
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\WaterBottles.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\WaterBottles.genruntimeconfig.cache
+C:\Users\benja\Desktop\LeetCodeProblems\WaterBottles\obj\Debug\net8.0\ref\WaterBottles.dll

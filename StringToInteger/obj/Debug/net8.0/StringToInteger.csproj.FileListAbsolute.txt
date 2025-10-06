@@ -1,0 +1,15 @@
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\bin\Debug\net8.0\StringToInteger.exe
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\bin\Debug\net8.0\StringToInteger.deps.json
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\bin\Debug\net8.0\StringToInteger.runtimeconfig.json
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\bin\Debug\net8.0\StringToInteger.dll
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\bin\Debug\net8.0\StringToInteger.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\StringToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\StringToInteger.AssemblyInfoInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\StringToInteger.AssemblyInfo.cs
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\StringToInteger.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\StringToInteger.sourcelink.json
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\StringToInteger.dll
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\refint\StringToInteger.dll
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\StringToInteger.pdb
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\StringToInteger.genruntimeconfig.cache
+C:\Users\benja\Desktop\LeetCodeProblems\StringToInteger\obj\Debug\net8.0\ref\StringToInteger.dll
